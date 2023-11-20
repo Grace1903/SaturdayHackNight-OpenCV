@@ -4,11 +4,11 @@
 
 
 # VOLUME CONTROL USING HAND GESTURES
-Long Description about project. This project do that. This project is awesome...
+This is a very interesting  project ...where u can control ur device volume by hand gestures ....
 ## Team members
-1. [Grace Elizabeth Jose]
-2. [Isha Nandana CS]
-3. [Dhruva T]
+1. Grace Elizabeth Jose
+2. Isha Nandana CS
+3. Dhruva T
 ## Link to product walkthrough
 [link to video](Link Here)
 ## How it Works ?
